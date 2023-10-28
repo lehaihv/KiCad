@@ -442,7 +442,7 @@
         )
       )
     )
-    (symbol "power:+5V" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "power:+5V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -494,7 +494,7 @@
         )
       )
     )
-    (symbol "power:GND" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -575,7 +575,6 @@
       )
     )
   )
-
 
   (junction (at 201.93 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 1b47ff66-2295-4a1d-a73a-a9328e350bf7)
