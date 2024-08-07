@@ -1267,7 +1267,7 @@
 			(pintype "passive+no_connect")
 			(uuid "54c5c4a6-2bcc-413e-8305-1f25c6df1ec1")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118193-0002LF_Horizontal.wrl"
+		(model "/home/sonny/Downloads/10118193-0002LF--3DModel-STEP-56544/10118193-0002LF--3DModel-STEP-56544.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1275,7 +1275,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 90 -180 -180)
 			)
 		)
 	)
@@ -1713,7 +1713,7 @@
 		(descr "Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L1"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(uuid "f3ca5649-b8d7-47ca-b2ed-ed8ef5fa9c4a")
 			(effects
@@ -1724,7 +1724,7 @@
 			)
 		)
 		(property "Value" "39n"
-			(at -2.8702 0 360)
+			(at -2.8702 0 0)
 			(layer "F.Fab")
 			(uuid "a10684c1-2193-4e07-b1e3-95c8302ee066")
 			(effects
@@ -1859,7 +1859,7 @@
 			(uuid "a9a2830a-416e-45d6-b93e-d40279ef6077")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c9d1e395-3a91-4b56-992e-324396d01715")
 			(effects
@@ -2760,7 +2760,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C10"
-			(at -0.0638 -1.6256 360)
+			(at -0.0638 -1.6256 0)
 			(layer "F.SilkS")
 			(uuid "15fcac50-157d-4944-a151-d3a1c58f0bfc")
 			(effects
@@ -2771,7 +2771,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at -3.1118 0.0254 360)
+			(at -3.1118 0.0254 0)
 			(layer "F.Fab")
 			(uuid "93bd3bfc-a4e9-4266-95a5-2562fc3a383a")
 			(effects
@@ -2926,7 +2926,7 @@
 			(uuid "1a48e664-f4fe-4542-a327-7ac9889b8b7c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0ae9c457-8cf4-43e4-9a79-1ab64c21a4dd")
 			(effects
@@ -3186,7 +3186,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 0 -1.16 360)
+			(at 0 -1.16 0)
 			(layer "F.SilkS")
 			(uuid "c5fd9ce5-69c8-4307-8d1f-9496e58778b5")
 			(effects
@@ -3197,7 +3197,7 @@
 			)
 		)
 		(property "Value" "12p"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "96f50340-35e0-4638-8bc1-df05a05d37f0")
 			(effects
@@ -3352,7 +3352,7 @@
 			(uuid "bcc5a0e4-6907-4177-bf23-b2e08c79b6f6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "37d76d3c-e586-4307-b213-487564ceaaf0")
 			(effects
@@ -4081,7 +4081,7 @@
 			(uuid "d4d488ad-ba65-4faa-9f46-06ca8001526e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.635 2.54 360)
+			(at -0.635 2.54 0)
 			(layer "F.Fab")
 			(uuid "fdc9f52e-fa44-4212-aaf4-a77aeb849b42")
 			(effects
@@ -4220,7 +4220,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "9fd80b57-e7f8-4662-bb45-3a9bb34e540c")
 			(effects
@@ -4231,7 +4231,7 @@
 			)
 		)
 		(property "Value" "1k5"
-			(at -3.2136 -0.0508 360)
+			(at -3.2136 -0.0508 0)
 			(layer "F.Fab")
 			(uuid "de48fe15-24d0-4519-ba80-579b48fc1aff")
 			(effects
@@ -4386,7 +4386,7 @@
 			(uuid "bb8c5259-8e32-4011-b2de-334c884f3dd3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "db6ebdf8-30a9-401a-9e9e-4626c2f0897b")
 			(effects
@@ -4646,7 +4646,7 @@
 		(descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U2"
-			(at 0 -2.4 360)
+			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "694b6414-fc95-4c5a-a2b3-80f89d91568d")
 			(effects
@@ -4657,7 +4657,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "387eaa0e-2c64-485e-8dc4-7bffbdd98b7f")
 			(effects
@@ -4854,7 +4854,7 @@
 			(uuid "59fd5a39-9bec-4f3a-8e68-48d832d97361")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4d0cf72b-f863-4201-bd1e-940d8c2a09b7")
 			(effects
@@ -5582,7 +5582,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0.063 1.6256 360)
+			(at 0.063 1.6256 0)
 			(layer "F.SilkS")
 			(uuid "c413effb-a46f-403d-af10-be1af7ec628f")
 			(effects
@@ -5593,7 +5593,7 @@
 			)
 		)
 		(property "Value" "2K2"
-			(at -3.0866 0.0508 360)
+			(at -3.0866 0.0508 0)
 			(layer "F.Fab")
 			(uuid "86b18787-4831-4188-bf78-edba416962df")
 			(effects
@@ -5748,7 +5748,7 @@
 			(uuid "7df702b7-bd0d-4c25-81e3-7a599342c267")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "47a07dac-31c3-4ee4-82e9-c096085fd61b")
 			(effects
@@ -7476,7 +7476,7 @@
 		(descr "Molex PicoBlade Connector System, 53048-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex PicoBlade top entry")
 		(property "Reference" "J4"
-			(at 1.88 -1.95 360)
+			(at 1.88 -1.95 0)
 			(layer "F.SilkS")
 			(uuid "bde0a467-9461-4342-beef-eacee0d26be0")
 			(effects
@@ -7487,7 +7487,7 @@
 			)
 		)
 		(property "Value" "USART3"
-			(at -5.0302 2.5324 360)
+			(at -5.0302 2.5324 0)
 			(layer "F.Fab")
 			(uuid "466c3399-fd7c-4daf-a3e6-0ac1a3a8cb7c")
 			(effects
@@ -7882,7 +7882,7 @@
 			(uuid "ba0a438a-0b9f-4dcc-8435-fe96acc6fa09")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.88 3.75 360)
+			(at 1.88 3.75 0)
 			(layer "F.Fab")
 			(uuid "b0d01615-13c1-4aaf-b194-9359786f5ddd")
 			(effects
@@ -7937,9 +7937,9 @@
 			(pintype "passive")
 			(uuid "e133eef8-e132-4839-b10b-9c1da03f3c00")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.wrl"
+		(model "/home/sonny/Downloads/530480410_stp/530480410.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.85 -5.45 0.35)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7956,7 +7956,7 @@
 		(descr "Molex PicoBlade Connector System, 53048-0410, 4 Pins per row (http://www.molex.com/pdm_docs/sd/530480210_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex PicoBlade top entry")
 		(property "Reference" "J3"
-			(at 1.88 -1.95 360)
+			(at 1.88 -1.95 0)
 			(layer "F.SilkS")
 			(uuid "2d914077-3d7e-4b3f-b881-a34f87826d69")
 			(effects
@@ -7967,7 +7967,7 @@
 			)
 		)
 		(property "Value" "I2C1"
-			(at 1.88 5.65 360)
+			(at 1.88 5.65 0)
 			(layer "F.Fab")
 			(uuid "7bc4e406-c7bb-4b74-8a75-313f0a9fafa1")
 			(effects
@@ -8362,7 +8362,7 @@
 			(uuid "50d1c86a-91e7-43eb-9326-80e4ef817e9a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.88 3.75 360)
+			(at 1.88 3.75 0)
 			(layer "F.Fab")
 			(uuid "dc498312-da09-43fe-8380-6d5d88b336be")
 			(effects
@@ -8417,9 +8417,9 @@
 			(pintype "passive")
 			(uuid "76d5ee09-efe2-45a3-bc44-5d1549cba33c")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal.wrl"
+		(model "/home/sonny/Downloads/530480410_stp/530480410.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.85 -5.45 0.35)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8436,7 +8436,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 2.8834 0.0254 360)
+			(at 2.8834 0.0254 0)
 			(layer "F.SilkS")
 			(uuid "216e0900-ed70-41c9-bbd2-9f1eb71d027d")
 			(effects
@@ -8447,7 +8447,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at -3.0856 -0.0254 360)
+			(at -3.0856 -0.0254 0)
 			(layer "F.Fab")
 			(uuid "4de3858a-0646-4cd9-91e8-b6bb38163826")
 			(effects
@@ -8602,7 +8602,7 @@
 			(uuid "2d41de92-9522-41e8-a1b5-8c36f0380e9b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6ea135b8-c442-4751-9c81-2080175bf5ef")
 			(effects
@@ -9096,7 +9096,7 @@
 		(at 89.6 74.4 180)
 		(descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
 		(property "Reference" "SW1"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "b92201fc-c8a7-4063-bef4-c4757c6c6912")
 			(effects
@@ -9107,7 +9107,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 0 4.25 360)
+			(at 0 4.25 0)
 			(layer "F.Fab")
 			(uuid "14cb8f7f-a885-4bd8-ab96-e3fd8923c26f")
 			(effects
@@ -9441,7 +9441,7 @@
 			(uuid "e509c3ba-2895-406b-a52b-039fbaf87466")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "F.Fab")
 			(uuid "0c4e11cc-d0ed-41c8-94cc-8e62fdd28e03")
 			(effects
